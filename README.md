@@ -4,6 +4,8 @@
 
 
 The indabaX Tunisia is the most prestigious and challenging deep learning hackathon in Tunisia. The 2024 edition was held at Sup'com on May 18-19, and the challenge focused on object detection in dental imagery. I'm thrilled to share my solution, which achieved the best score in the competition.
+![GameChanger-Dental Image Tooth Localization and Numbering Challenge by IndabaX Tunisia 2024](https://github.com/DridiM/INDABAX2024-Tunisia-winning-solution/assets/144357717/c5dc14b9-ec2f-477f-a51e-4c14635a6187)
+
 ## Model
 
 The model used is YOLOv8 with stratified k-folds (k = 5).
